@@ -12,7 +12,7 @@ The rapid growth of Internet of Things (IoT) devices has ushered in a new era of
 
 ## Introduction
 
-In this project, we embark on a comprehensive study of the application of machine learning methods to enhance smoke detection in IoT settings. The study focuses on analyzing a dedicated dataset, "Smoke detection iot.csv," designed for investigating smoke and fire incident detection in IoT environments.
+In this project, we embark on a comprehensive study of the application of machine learning methods to enhance smoke detection in IoT settings. The study focuses on analyzing a dedicated dataset, "smoke_detection_iot.csv," designed for investigating smoke and fire incident detection in IoT environments.
 
 ## Dataset
 
